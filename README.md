@@ -5,7 +5,9 @@ Invisible Cloak Using OpenCV
 
 * [Python 3.X](https://docs.python.org/3/)
 
-* Python Packages are mention in the [requirement.txt](https://github.com/chauhanmahavir/Invisible-Cloak/blob/master/requirements.txt)
+* open-cv
+
+* numpy
 
 ## Screen Shots
 
