@@ -5,9 +5,9 @@ Invisible Cloak Using OpenCV
 
 * [Python 3.X](https://docs.python.org/3/)
 
-* open-cv
+* Open-CV
 
-* numpy
+* Numpy
 
 ## Screen Shots
 
