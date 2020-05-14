@@ -1,5 +1,5 @@
-# Invisible-Cloak
-Invisible Cloak Using OpenCV
+# Invisibility-With-OpenCV
+Invisibility using OpenCV
 
 ## Requirements
 
